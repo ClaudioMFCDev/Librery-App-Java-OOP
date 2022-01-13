@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Estudiante
+comment0.text=\r\n\ TP\ INTEGRADOR\ CLASE\ ESTUDIANTE\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_dni\ p_nombre\ p_carrera
+comment1.target=Estudiante(int,\ java.lang.String,\ java.lang.String)
+comment1.text=Constructores\ de\ la\ Clase\ Estudiante*
+comment2.params=p_carrera
+comment2.target=void\ setCarrera(java.lang.String)
+comment2.text=Setter*
+comment3.params=
+comment3.target=java.lang.String\ getCarrera()
+comment3.text=Getter*
+comment4.params=
+comment4.target=boolean\ puedePedir()
+comment4.text=\r\n@return\ True\ o\ False\ dependiendo\ si\ el\ Alumno\ puede\ solicitar\ o\ no\ un\ prestamo\r\nVerifica\ que\ el\ alumno\ no\ tenga\ prestamos\ vencidos\ o\ que\ no\ tenga\ mas\ de\ 3\ libros\ prestados\ al\ mismo\ tiempo\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ soyDeLaClase()
+comment5.text=@return\ Devuelve\ un\ string\ indicando\ que\ el\ socio\ es\ un\ Estudiante*
+numComments=6
